@@ -151,3 +151,4 @@ This list is intended to be of utility for all developers who are looking web ma
 * [EDSM - Galactic Map](https://www.edsm.net/en/galactic-mapping)
 * [The area of effect of the "MOAB" bomb in Afghanistan](https://www.dhkconsulting.com/moab/moab.html)
 * [Folium - a Leaflet wrapper for Python](https://github.com/python-visualization/folium)
+* [Distanze Chilometriche - Stradario](https://distanzechilometriche.net/stradario/)
